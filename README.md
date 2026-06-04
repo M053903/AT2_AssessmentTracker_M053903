@@ -8,5 +8,5 @@ A console application that allows the user to add/delete, view assessments and c
 
 
 
-//Test to try out merging remote and local commits
+//Test to try out merging remote and local commits//
 
