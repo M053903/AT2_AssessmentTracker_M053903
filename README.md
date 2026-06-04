@@ -8,5 +8,5 @@ A console application that allows the user to add/delete, view assessments and c
 
 
 
-Testing merging commits.....
+Testing merging commits
 
