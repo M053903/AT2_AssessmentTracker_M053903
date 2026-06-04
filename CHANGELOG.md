@@ -13,3 +13,6 @@ All notable changes to this project will be documented here.
 - Pushed the change through with GitHub
 - Changed README file on remote repository (Git website)
 - Updated CHANGELOG
+
+## [1.0.3] - Merging
+- Made changes to changelog file on remote repository  
