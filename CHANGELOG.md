@@ -20,7 +20,6 @@ All notable changes to this project will be documented here.
 
 
 
-## [1.0.3] - Merging
-- Made changes to changelog file on remote repository  
-- Made changes to the README file on local repository (class computer)
+## \[1.0.3] - Merging
 
+* Made changes to the changelog file on local repository (class computer)
