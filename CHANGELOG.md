@@ -20,8 +20,18 @@ All notable changes to this project will be documented here.
 
 
 
-## [1.0.3] - Merging
+## \[1.0.3] - Merging
 - Made changes to changelog file on remote repository  
 - Made changes to the changelog file on local repository (class computer)
 
 * Made changes to the changelog file on local repository (class computer)
+
+## \[1.0.4] - Upload
+-Uploaded finalised assessment tracker application as zip file
+
+## \[1.0.5] - New feature
+- Uploaded assessment tracker with new "note" feature added
+
+## \[1.0.6] - Testing
+- Testing final version of assessment tracker
+- Testing VCS 
